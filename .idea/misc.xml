@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mehme/Desktop/Android_Calismalar/HomeFinder/app/src/main/res/drawable/bglogin.xml" value="0.2703125" />
         <entry key="..\:/Users/mehme/Desktop/Android_Calismalar/HomeFinder/app/src/main/res/layout/activity_main.xml" value="0.1716485507246377" />
-        <entry key="..\:/Users/mehme/Desktop/Android_Calismalar/HomeFinder/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/mehme/Desktop/Android_Calismalar/HomeFinder/app/src/main/res/layout/fragment_login.xml" value="0.16" />
+        <entry key="..\:/Users/mehme/Desktop/Android_Calismalar/HomeFinder/app/src/main/res/layout/fragment_signup.xml" value="0.24010416666666667" />
       </map>
     </option>
   </component>
