@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        this.supportActionBar?.hide()
         val adapter = ViewPagerAdapter(supportFragmentManager,lifecycle)
         binding.viewPager2.adapter = adapter
 
