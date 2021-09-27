@@ -33,6 +33,8 @@ android {
     }
     buildFeatures {
         viewBinding true
+        dataBinding true
+
     }
 }
 
@@ -73,5 +75,9 @@ dependencies {
 
     // Jetpack Compose Integration
     implementation("androidx.navigation:navigation-compose:2.4.0-alpha09")
+
+
+
+
 
 }

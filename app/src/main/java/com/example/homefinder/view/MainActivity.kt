@@ -1,7 +1,8 @@
-package com.example.homefinder
+package com.example.homefinder.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.homefinder.adapters.ViewPagerAdapter
 import com.example.homefinder.databinding.ActivityMainBinding
 import com.google.android.material.tabs.TabLayoutMediator
 
