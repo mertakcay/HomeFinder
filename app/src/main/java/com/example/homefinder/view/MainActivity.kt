@@ -28,4 +28,7 @@ class MainActivity : AppCompatActivity() {
         }.attach()
 
     }
+    fun chooseTab(position: Int) {
+        binding.viewPager2.setCurrentItem(position)
+    }
 }

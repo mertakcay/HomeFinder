@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "258386783174",
-    "project_id": "housefinder-5823f",
-    "storage_bucket": "housefinder-5823f.appspot.com"
+    "project_number": "107585588611",
+    "project_id": "homefinder-9a839",
+    "storage_bucket": "homefinder-9a839.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:258386783174:android:b7021533187bc93a83e0c7",
+        "mobilesdk_app_id": "1:107585588611:android:83bf6544b8ec3eaf807ab6",
         "android_client_info": {
           "package_name": "com.example.homefinder"
         }
       },
       "oauth_client": [
         {
-          "client_id": "258386783174-2r88c24ce3nftqbfddvlcoa4jqduqkv7.apps.googleusercontent.com",
+          "client_id": "107585588611-23rpdgv4rtqu127crna5091p4r4brjge.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyChIZ03BmmDKe0QXNeS2w4xNXSuEOYmnDE"
+          "current_key": "AIzaSyB9IDfU68SB__eLHWTPEzfkQdSPNVYHo3k"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "258386783174-2r88c24ce3nftqbfddvlcoa4jqduqkv7.apps.googleusercontent.com",
+              "client_id": "107585588611-23rpdgv4rtqu127crna5091p4r4brjge.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
